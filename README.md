@@ -4,10 +4,8 @@
   <img src="https://i.ibb.co/DCt2s4J/blog-post-comparativo-aws-e-azure.png" alt="banner Git Goncalves"/>
  </p>
   
-🔸 Tecnologista focado em resoluções de problemas e inovação. Atualmente é responsável pela parte tecnológica da empresa ABC Mais Telecom, revenda da Motorola Solutions, cujo trabalho e estudo sempre foi contínuo, buscando sempre uma melhor performance para alcançar e otimizar seus resultados.<br>
-🧠 Criando a ponte entre a Tecnologia e o Comercial
-
-
+🔸 Azure Solutions Architect & DevOps Engineer specialized in designing, implementing, and optimizing scalable cloud solutions. With a strong focus on innovation and efficiency, I leverage Microsoft Azure to deliver high-performance architectures that drive business growth and operational excellence.
+🧠 Bridging technology, strategy, and execution to empower sales teams and accelerate digital transformation.
 
 
 ## Skills
